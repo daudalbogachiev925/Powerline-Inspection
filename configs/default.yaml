@@ -1,0 +1,6 @@
+lines:
+  min_length: 80
+insulator:
+  conf: 0.4
+defect:
+  edge_threshold: 0.3
